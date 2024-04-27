@@ -1,0 +1,3 @@
+juan = 12
+perdro = 10
+antonio = juan + pedro
